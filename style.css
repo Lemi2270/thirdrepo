@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+nav img {
+    max-width: 30px;
+}
